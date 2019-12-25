@@ -1,0 +1,1212 @@
+Eric_BC_Player vs Thanos_BC_player(WHITE designed by JingQiang Wang and Junhao Zeng)
+
+
+**** Baroque Chess Gamemaster v1.0-BETA *****
+The Gamemaster says, "Players, introduce yourselves."
+ (Playing WHITE:) My name is Thanos, my designer is Jingqiang Wang and Junhao Zeng 
+ (Playing BLACK:) I'm Eric, a Baroque Chess agent rookie.
+
+The Gamemaster says, "Let's Play!"
+
+The initial state is...
+c l i w k i l f 
+p p p p p p p p 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+P P P P P P P P 
+F L I W K I L C 
+WHITE's move
+
+Time used in makeMove: 0.9751 seconds out of  1
+WHITE's move: the P at (6, 7) to (5, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 1: Move is by WHITE
+Thanos says: that's the best you can do?
+c l i w k i l f 
+p p p p p p p p 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - P 
+P P P P P P P - 
+F L I W K I L C 
+BLACK's move
+
+Time used in makeMove: 0.9943 seconds out of  1
+BLACK's move: the p at (1, 0) to (4, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 2: Move is by BLACK
+Eric says: It is interesting to choose the best one from 93 choices
+c l i w k i l f 
+- p p p p p p p 
+- - - - - - - - 
+- - - - - - - - 
+p - - - - - - - 
+- - - - - - - P 
+P P P P P P P - 
+F L I W K I L C 
+WHITE's move
+
+Time used in makeMove: 0.9194 seconds out of  1
+WHITE's move: the L at (7, 6) to (6, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 3: Move is by WHITE
+Thanos says: You have my respect.
+c l i w k i l f 
+- p p p p p p p 
+- - - - - - - - 
+- - - - - - - - 
+p - - - - - - - 
+- - - - - - - P 
+P P P P P P P L 
+F L I W K I - C 
+BLACK's move
+
+Time used in makeMove: 0.9946 seconds out of  1
+BLACK's move: the p at (4, 0) to (4, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 4: Move is by BLACK
+Eric says: Hi Thanos, I think we will have a great game
+c l i w k i l f 
+- p p p p p p p 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - p 
+- - - - - - - P 
+P P P P P P P L 
+F L I W K I - C 
+WHITE's move
+
+Time used in makeMove: 0.9462 seconds out of  1
+WHITE's move: the C at (7, 7) to (7, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 5: Move is by WHITE
+Thanos says: that's the best you can do?
+c l i w k i l f 
+- p p p p p p p 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - p 
+- - - - - - - P 
+P P P P P P P L 
+F L I W K I C - 
+BLACK's move
+
+Time used in makeMove: 0.9950 seconds out of  1
+BLACK's move: the p at (4, 7) to (4, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 6: Move is by BLACK
+Eric says: I WILL NEVER SURRENDER
+c l i w k i l f 
+- p p p p p p p 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - p - - 
+- - - - - - - P 
+P P P P P P P L 
+F L I W K I C - 
+WHITE's move
+
+Time used in makeMove: 0.9233 seconds out of  1
+WHITE's move: the C at (7, 6) to (7, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 7: Move is by WHITE
+Thanos says: You will lose
+c l i w k i l f 
+- p p p p p p p 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - p - - 
+- - - - - - - P 
+P P P P P P P L 
+F L I W K I - C 
+BLACK's move
+
+Time used in makeMove: 0.9955 seconds out of  1
+BLACK's move: the p at (1, 6) to (3, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 8: Move is by BLACK
+Eric says: It is easy for me to make choice by making 17 times alpha-beta pruning
+c l i w k i l f 
+- p p p p p - p 
+- - - - - - - - 
+- - - - - - p - 
+- - - - - p - - 
+- - - - - - - P 
+P P P P P P P L 
+F L I W K I - C 
+WHITE's move
+
+Time used in makeMove: 0.9197 seconds out of  1
+WHITE's move: the C at (7, 7) to (7, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 9: Move is by WHITE
+Thanos says: Smash!
+c l i w k i l f 
+- p p p p p - p 
+- - - - - - - - 
+- - - - - - p - 
+- - - - - p - - 
+- - - - - - - P 
+P P P P P P P L 
+F L I W K I C - 
+BLACK's move
+
+Time used in makeMove: 0.9962 seconds out of  1
+BLACK's move: the c at (0, 0) to (3, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 10: Move is by BLACK
+Eric says: My turn, I choose my move here
+- l i w k i l f 
+- p p p p p - p 
+- - - - - - - - 
+c - - - - - p - 
+- - - - - p - - 
+- - - - - - - P 
+P P P P P P P L 
+F L I W K I C - 
+WHITE's move
+
+Time used in makeMove: 0.9223 seconds out of  1
+WHITE's move: the L at (6, 7) to (5, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 11: Move is by WHITE
+Thanos says: I am the best.
+- l i w k i l f 
+- p p p p p - p 
+- - - - - - - - 
+c - - - - - p - 
+- - - - - p - - 
+- - - - - - L P 
+P P P P P P P - 
+F L I W K I C - 
+BLACK's move
+
+Time used in makeMove: 0.9956 seconds out of  1
+BLACK's move: the c at (3, 0) to (0, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 12: Move is by BLACK
+Eric says: I think it will be a interesting move
+c l i w k i l f 
+- p p p p p - p 
+- - - - - - - - 
+- - - - - - p - 
+- - - - - p - - 
+- - - - - - L P 
+P P P P P P P - 
+F L I W K I C - 
+WHITE's move
+
+Time used in makeMove: 0.9159 seconds out of  1
+WHITE's move: the P at (6, 4) to (2, 4).
+Calling the move validation service.
+valid move
+valid move
+Turn 13: Move is by WHITE
+Thanos says: All that much time for this move?let it be fear
+c l i w k i l f 
+- p p p p p - p 
+- - - - P - - - 
+- - - - - - p - 
+- - - - - p - - 
+- - - - - - L P 
+P P P P - P P - 
+F L I W K I C - 
+BLACK's move
+
+Time used in makeMove: 0.9946 seconds out of  1
+BLACK's move: the p at (3, 6) to (3, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 14: Move is by BLACK
+Eric says: My precise evaluation function value of 0 is impeccable
+c l i w k i l f 
+- p p p p p - p 
+- - - - P - - - 
+- - - - - p - - 
+- - - - - p - - 
+- - - - - - L P 
+P P P P - P P - 
+F L I W K I C - 
+WHITE's move
+
+Time used in makeMove: 0.9240 seconds out of  1
+WHITE's move: the I at (7, 5) to (2, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 15: Move is by WHITE
+Thanos says: No matter what you try, there will only one result.
+c l i w k i l f 
+- p p p p p - p 
+I - - - P - - - 
+- - - - - p - - 
+- - - - - p - - 
+- - - - - - L P 
+P P P P - P P - 
+F L I W K - C - 
+BLACK's move
+
+Time used in makeMove: 0.9961 seconds out of  1
+BLACK's move: the p at (4, 5) to (5, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 16: Move is by BLACK
+Eric says: I think I'm getting closer to win
+c l i w k i l f 
+- p p p p p - p 
+I - - - P - - - 
+- - - - - p - - 
+- - - - - - - - 
+- - - - - p L P 
+P P P P - P P - 
+F L I W K - C - 
+WHITE's move
+
+Time used in makeMove: 0.9114 seconds out of  1
+WHITE's move: the P at (2, 4) to (5, 4).
+Calling the move validation service.
+valid move
+valid move
+Turn 17: Move is by WHITE
+Thanos says: that's the best you can do?
+c l i w k i l f 
+- p p p p p - p 
+I - - - - - - - 
+- - - - - p - - 
+- - - - - - - - 
+- - - - P - L P 
+P P P P - P P - 
+F L I W K - C - 
+BLACK's move
+
+Time used in makeMove: 0.9951 seconds out of  1
+BLACK's move: the p at (3, 5) to (3, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 18: Move is by BLACK
+Eric says: My precise evaluation function value of 1 is impeccable
+c l i w k i l f 
+- p p p p p - p 
+I - - - - - - - 
+- p - - - - - - 
+- - - - - - - - 
+- - - - P - L P 
+P P P P - P P - 
+F L I W K - C - 
+WHITE's move
+
+Time used in makeMove: 0.9206 seconds out of  1
+WHITE's move: the C at (7, 6) to (7, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 19: Move is by WHITE
+Thanos says: Smash!
+c l i w k i l f 
+- p p p p p - p 
+I - - - - - - - 
+- p - - - - - - 
+- - - - - - - - 
+- - - - P - L P 
+P P P P - P P - 
+F L I W K C - - 
+BLACK's move
+
+Time used in makeMove: 0.9959 seconds out of  1
+BLACK's move: the p at (3, 1) to (2, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 20: Move is by BLACK
+Eric says: I think it will be a interesting move
+c l i w k i l f 
+- p p p p p - p 
+I p - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+- - - - P - L P 
+P P P P - P P - 
+F L I W K C - - 
+WHITE's move
+
+Time used in makeMove: 0.9232 seconds out of  1
+WHITE's move: the P at (6, 2) to (2, 2).
+Calling the move validation service.
+valid move
+valid move
+Turn 21: Move is by WHITE
+Thanos says: I am inevitable.
+c l i w k i l f 
+- p p p p p - p 
+I - P - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+- - - - P - L P 
+P P - P - P P - 
+F L I W K C - - 
+BLACK's move
+
+Time used in makeMove: 0.9944 seconds out of  1
+BLACK's move: the p at (1, 1) to (4, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 22: Move is by BLACK
+Eric says: I think it will be a interesting move
+c l i w k i l f 
+- - p p p p - p 
+I - P - - - - - 
+- - - - - - - - 
+- p - - - - - - 
+- - - - P - L P 
+P P - P - P P - 
+F L I W K C - - 
+WHITE's move
+
+Time used in makeMove: 0.9068 seconds out of  1
+WHITE's move: the C at (7, 5) to (3, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 23: Move is by WHITE
+Thanos says: You are weak.
+c l i w k i l f 
+- - p p p p - p 
+I - P - - - - - 
+- C - - - - - - 
+- p - - - - - - 
+- - - - P - L P 
+P P - P - P P - 
+F L I W K - - - 
+BLACK's move
+
+Time used in makeMove: 1.0091 seconds out of  1
+BLACK's move: the p at (4, 1) to (4, 3).
+Calling the move validation service.
+valid move
+valid move
+Turn 24: Move is by BLACK
+Eric says: I think I'm getting closer to win
+c l i w k i l f 
+- - p p p p - p 
+I - P - - - - - 
+- C - - - - - - 
+- - - p - - - - 
+- - - - P - L P 
+P P - P - P P - 
+F L I W K - - - 
+WHITE's move
+
+Time used in makeMove: 0.9251 seconds out of  1
+WHITE's move: the K at (7, 4) to (7, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 25: Move is by WHITE
+Thanos says: I am inevitable.
+c l i w k i l f 
+- - p p p p - p 
+I - P - - - - - 
+- C - - - - - - 
+- - - p - - - - 
+- - - - P - L P 
+P P - P - P P - 
+F L I W - K - - 
+BLACK's move
+
+Time used in makeMove: 0.9950 seconds out of  1
+BLACK's move: the p at (1, 7) to (3, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 26: Move is by BLACK
+Eric says: It is easy for me to make choice by making 49 times alpha-beta pruning
+c l i w k i l f 
+- - p p p p - - 
+I - P - - - - - 
+- C - - - - - p 
+- - - p - - - - 
+- - - - P - L P 
+P P - P - P P - 
+F L I W - K - - 
+WHITE's move
+
+Time used in makeMove: 0.9197 seconds out of  1
+WHITE's move: the K at (7, 5) to (6, 4).
+Calling the move validation service.
+valid move
+valid move
+Turn 27: Move is by WHITE
+Thanos says: You will lose
+c l i w k i l f 
+- - p p p p - - 
+I - P - - - - - 
+- C - - - - - p 
+- - - p - - - - 
+- - - - P - L P 
+P P - P K P P - 
+F L I W - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9947 seconds out of  1
+BLACK's move: the p at (3, 7) to (2, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 28: Move is by BLACK
+Eric says: I WILL NEVER SURRENDER
+c l i w k i l f 
+- - p p p p - - 
+I - P - - - - p 
+- C - - - - - - 
+- - - p - - - - 
+- - - - P - L P 
+P P - P K P P - 
+F L I W - - - - 
+WHITE's move
+
+Time used in makeMove: 0.9138 seconds out of  1
+WHITE's move: the W at (7, 3) to (4, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 29: Move is by WHITE
+Thanos says: You are not the only one cursed with knowledge,Eric.
+c l i w k i l f 
+- - p p p p - - 
+I - P - - - - p 
+- C - - - - - - 
+W - - p - - - - 
+- - - - P - L P 
+P P - P K P P - 
+F L I - - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9946 seconds out of  1
+BLACK's move: the l at (0, 6) to (2, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 30: Move is by BLACK
+Eric says: I think it will be a interesting move
+c l i w k i - f 
+- - p p p p - - 
+I - P - - - l p 
+- C - - - - - - 
+W - - p - - - - 
+- - - - P - L P 
+P P - P K P P - 
+F L I - - - - - 
+WHITE's move
+
+Time used in makeMove: 0.9137 seconds out of  1
+WHITE's move: the I at (7, 2) to (3, 2).
+Calling the move validation service.
+valid move
+valid move
+Turn 31: Move is by WHITE
+Thanos says: All that much time for this move?let it be fear
+c l i w k i - f 
+- - p p p p - - 
+I - P - - - l p 
+- C I - - - - - 
+W - - p - - - - 
+- - - - P - L P 
+P P - P K P P - 
+F L - - - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9961 seconds out of  1
+BLACK's move: the p at (1, 4) to (2, 4).
+Calling the move validation service.
+valid move
+valid move
+Turn 32: Move is by BLACK
+Eric says: It is easy for me to do that
+c l i w k i - f 
+- - p p - p - - 
+I - P - p - l p 
+- C I - - - - - 
+W - - p - - - - 
+- - - - P - L P 
+P P - P K P P - 
+F L - - - - - - 
+WHITE's move
+
+Time used in makeMove: 0.9253 seconds out of  1
+WHITE's move: the L at (7, 1) to (3, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 33: Move is by WHITE
+Thanos says: You will lose
+c l i w k i - f 
+- - p p - p - - 
+I - P - p - l p 
+- C I - - L - - 
+W - - p - - - - 
+- - - - P - L P 
+P P - P K P P - 
+F - - - - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9944 seconds out of  1
+BLACK's move: the l at (2, 6) to (3, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 34: Move is by BLACK
+Eric says: My precise evaluation function value of 2 is impeccable
+c l i w k i - f 
+- - p p - p - - 
+I - P - p - - p 
+- C I - - L - l 
+W - - p - - - - 
+- - - - P - L P 
+P P - P K P P - 
+F - - - - - - - 
+WHITE's move
+
+Time used in makeMove: 0.9198 seconds out of  1
+WHITE's move: the F at (7, 0) to (7, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 35: Move is by WHITE
+Thanos says: Smash!
+c l i w k i - f 
+- - p p - p - - 
+I - P - p - - p 
+- C I - - L - l 
+W - - p - - - - 
+- - - - P - L P 
+P P - P K P P - 
+- - - - - - - F 
+BLACK's move
+
+Time used in makeMove: 0.9942 seconds out of  1
+BLACK's move: the p at (4, 3) to (4, 4).
+Calling the move validation service.
+valid move
+valid move
+Turn 36: Move is by BLACK
+Eric says: It is easy for me to make choice by making 62 times alpha-beta pruning
+c l i w k i - f 
+- - p p - p - - 
+I - P - p - - p 
+- C I - - L - l 
+W - - - p - - - 
+- - - - P - L P 
+P P - P K P P - 
+- - - - - - - F 
+WHITE's move
+
+Time used in makeMove: 0.9203 seconds out of  1
+WHITE's move: the F at (7, 7) to (6, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 37: Move is by WHITE
+Thanos says: You have my respect.
+c l i w k i - f 
+- - p p - p - - 
+I - P - p - - p 
+- C I - - L - l 
+W - - - p - - - 
+- - - - P - L P 
+P P - P K P P F 
+- - - - - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9949 seconds out of  1
+BLACK's move: the p at (4, 4) to (4, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 38: Move is by BLACK
+Eric says: My precise evaluation function value of 2 is impeccable
+c l i w k i - f 
+- - p p - p - - 
+I - P - p - - p 
+- C I - - L - l 
+W p - - - - - - 
+- - - - P - L P 
+P P - P K P P F 
+- - - - - - - - 
+WHITE's move
+
+Time used in makeMove: 0.9174 seconds out of  1
+WHITE's move: the F at (6, 7) to (7, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 39: Move is by WHITE
+Thanos says: You will lose
+c l i w k i - f 
+- - p p - p - - 
+I - P - p - - p 
+- C I - - L - l 
+W p - - - - - - 
+- - - - P - L P 
+P P - P K P P - 
+- - - - - - - F 
+BLACK's move
+
+Time used in makeMove: 0.9943 seconds out of  1
+BLACK's move: the f at (0, 7) to (3, 4).
+Calling the move validation service.
+valid move
+valid move
+Turn 40: Move is by BLACK
+Eric says: It is easy for me to do that
+c l i w k i - - 
+- - p p - p - - 
+I - P - p - - p 
+- C I - f L - l 
+W p - - - - - - 
+- - - - P - L P 
+P P - P K P P - 
+- - - - - - - F 
+WHITE's move
+
+Time used in makeMove: 0.9140 seconds out of  1
+WHITE's move: the F at (7, 7) to (7, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 41: Move is by WHITE
+Thanos says: You will lose
+c l i w k i - - 
+- - p p - p - - 
+I - P - p - - p 
+- C I - f L - l 
+W p - - - - - - 
+- - - - P - L P 
+P P - P K P P - 
+- F - - - - - - 
+BLACK's move
+
+Time used in makeMove: 1.0022 seconds out of  1
+BLACK's move: the p at (2, 7) to (2, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 42: Move is by BLACK
+Eric says: It is easy for me to make choice by making 75 times alpha-beta pruning
+c l i w k i - - 
+- - p p - p - - 
+I - P - p p - - 
+- C I - f L - l 
+W p - - - - - - 
+- - - - P - L P 
+P P - P K P P - 
+- F - - - - - - 
+WHITE's move
+
+Time used in makeMove: 0.9213 seconds out of  1
+WHITE's move: the F at (7, 1) to (7, 3).
+Calling the move validation service.
+valid move
+valid move
+Turn 43: Move is by WHITE
+Thanos says: I am inevitable.
+c l i w k i - - 
+- - p p - p - - 
+I - P - p p - - 
+- C I - f L - l 
+W p - - - - - - 
+- - - - P - L P 
+P P - P K P P - 
+- - - F - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9940 seconds out of  1
+BLACK's move: the l at (0, 1) to (1, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 44: Move is by BLACK
+Eric says: I think I'm getting closer to win
+c - i w k i - - 
+- l p p - p - - 
+I - P - p p - - 
+- C I - f L - l 
+W p - - - - - - 
+- - - - P - L P 
+P P - P K P P - 
+- - - F - - - - 
+WHITE's move
+
+Time used in makeMove: 0.9213 seconds out of  1
+WHITE's move: the P at (6, 3) to (3, 3).
+Calling the move validation service.
+valid move
+valid move
+Turn 45: Move is by WHITE
+Thanos says: No one can match me in the universe.
+c - i w k i - - 
+- l p p - p - - 
+I - P - p p - - 
+- C I P - L - l 
+W p - - - - - - 
+- - - - P - L P 
+P P - - K P P - 
+- - - F - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9946 seconds out of  1
+BLACK's move: the p at (4, 1) to (4, 2).
+Calling the move validation service.
+valid move
+valid move
+Turn 46: Move is by BLACK
+Eric says: I'll think harder in some future game. Here's my move
+c - i w k i - - 
+- l p p - p - - 
+I - P - p p - - 
+- C I P - L - l 
+W - p - - - - - 
+- - - - P - L P 
+P P - - K P P - 
+- - - F - - - - 
+WHITE's move
+
+Time used in makeMove: 0.9245 seconds out of  1
+WHITE's move: the P at (6, 1) to (4, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 47: Move is by WHITE
+Thanos says: All that much time for this move?let it be fear
+c - i w k i - - 
+- l p p - p - - 
+I - P - p p - - 
+- C I P - L - l 
+W P p - - - - - 
+- - - - P - L P 
+P - - - K P P - 
+- - - F - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9944 seconds out of  1
+BLACK's move: the p at (4, 2) to (7, 2).
+Calling the move validation service.
+valid move
+valid move
+Turn 48: Move is by BLACK
+Eric says: I think it will be a interesting move
+c - i w k i - - 
+- l p p - p - - 
+I - P - p p - - 
+- C I P - L - l 
+W P - - - - - - 
+- - - - P - L P 
+P - - - K P P - 
+- - p F - - - - 
+WHITE's move
+
+Time used in makeMove: 0.9743 seconds out of  1
+WHITE's move: the L at (5, 6) to (3, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 49: Move is by WHITE
+Thanos says: I am the best.
+c - i w k i - - 
+- l p p - p - - 
+I - P - p p - - 
+- C I P - L L l 
+W P - - - - - - 
+- - - - P - - P 
+P - - - K P P - 
+- - p F - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9944 seconds out of  1
+BLACK's move: the p at (1, 3) to (2, 3).
+Calling the move validation service.
+valid move
+valid move
+Turn 50: Move is by BLACK
+Eric says: It is easy for me to make choice by making 87 times alpha-beta pruning
+c - i w k i - - 
+- l p - - p - - 
+I - P p p p - - 
+- C I P - L L l 
+W P - - - - - - 
+- - - - P - - P 
+P - - - K P P - 
+- - p F - - - - 
+WHITE's move
+
+Time used in makeMove: 0.9192 seconds out of  1
+WHITE's move: the F at (7, 3) to (5, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 51: Move is by WHITE
+Thanos says: You are weak.
+c - i w k i - - 
+- l p - - p - - 
+I - P p p p - - 
+- C I P - L L l 
+W P - - - - - - 
+- F - - P - - P 
+P - - - K P P - 
+- - p - - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9944 seconds out of  1
+BLACK's move: the l at (3, 7) to (2, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 52: Move is by BLACK
+Eric says: It is interesting to choose the best one from 9315 choices
+c - i w k i - - 
+- l p - - p - - 
+I - P p p p - l 
+- C I P - L L - 
+W P - - - - - - 
+- F - - P - - P 
+P - - - K P P - 
+- - p - - - - - 
+WHITE's move
+
+Time used in makeMove: 0.9199 seconds out of  1
+WHITE's move: the P at (6, 6) to (5, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 53: Move is by WHITE
+Thanos says: No one can match me in the universe.
+c - i w k i - - 
+- l p - - p - - 
+I - P p p p - l 
+- C I P - L L - 
+W P - - - - - - 
+- F - - P - P P 
+P - - - K P - - 
+- - p - - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9944 seconds out of  1
+BLACK's move: the l at (1, 1) to (0, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 54: Move is by BLACK
+Eric says: It is easy for me to make choice by making 90 times alpha-beta pruning
+c l i w k i - - 
+- - p - - p - - 
+I - P p p p - l 
+- C I P - L L - 
+W P - - - - - - 
+- F - - P - P P 
+P - - - K P - - 
+- - p - - - - - 
+WHITE's move
+
+Time used in makeMove: 0.9438 seconds out of  1
+WHITE's move: the P at (6, 5) to (6, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 55: Move is by WHITE
+Thanos says: You have my respect.
+c l i w k i - - 
+- - p - - p - - 
+I - P p p p - l 
+- C I P - L L - 
+W P - - - - - - 
+- F - - P - P P 
+P - - - K - P - 
+- - p - - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9948 seconds out of  1
+BLACK's move: the p at (1, 2) to (1, 4).
+Calling the move validation service.
+valid move
+valid move
+Turn 56: Move is by BLACK
+Eric says: I'll think harder in some future game. Here's my move
+c l i w k i - - 
+- - - - p p - - 
+I - P p p p - l 
+- C I P - L L - 
+W P - - - - - - 
+- F - - P - P P 
+P - - - K - P - 
+- - p - - - - - 
+WHITE's move
+
+Time used in makeMove: 0.9181 seconds out of  1
+WHITE's move: the P at (6, 6) to (7, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 57: Move is by WHITE
+Thanos says: All that much time for this move?let it be fear
+c l i w k i - - 
+- - - - p p - - 
+I - P p p p - l 
+- C I P - L L - 
+W P - - - - - - 
+- F - - P - P P 
+P - - - K - - - 
+- - p - - - P - 
+BLACK's move
+
+Time used in makeMove: 0.9947 seconds out of  1
+BLACK's move: the l at (2, 7) to (1, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 58: Move is by BLACK
+Eric says: I'll think harder in some future game. Here's my move
+c l i w k i - - 
+- - - - p p l - 
+I - P p p p - - 
+- C I P - L L - 
+W P - - - - - - 
+- F - - P - P P 
+P - - - K - - - 
+- - p - - - P - 
+WHITE's move
+
+Time used in makeMove: 0.9232 seconds out of  1
+WHITE's move: the L at (3, 6) to (0, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 59: Move is by WHITE
+Thanos says: You have my respect.
+c l i w k i L - 
+- - - - p p - - 
+I - P p p p - - 
+- C I P - L - - 
+W P - - - - - - 
+- F - - P - P P 
+P - - - K - - - 
+- - p - - - P - 
+BLACK's move
+
+Time used in makeMove: 0.9949 seconds out of  1
+BLACK's move: the p at (2, 5) to (2, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 60: Move is by BLACK
+Eric says: I think I'm getting closer to win
+c l i w k i L - 
+- - - - p p - - 
+I - P p p - p - 
+- C I P - L - - 
+W P - - - - - - 
+- F - - P - P P 
+P - - - K - - - 
+- - p - - - P - 
+WHITE's move
+
+Time used in makeMove: 0.9207 seconds out of  1
+WHITE's move: the L at (3, 5) to (1, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 61: Move is by WHITE
+Thanos says: that's the best you can do?
+c l i w k i L - 
+- - - - p p - L 
+I - P p p - - - 
+- C I P - - - - 
+W P - - - - - - 
+- F - - P - P P 
+P - - - K - - - 
+- - p - - - P - 
+BLACK's move
+
+Time used in makeMove: 0.9962 seconds out of  1
+BLACK's move: the p at (2, 4) to (3, 4).
+Calling the move validation service.
+valid move
+valid move
+Turn 62: Move is by BLACK
+Eric says: Hi Thanos, I think we will have a great game
+c l i w k i L - 
+- - - - p p - L 
+I - P p - - - - 
+- C I P p - - - 
+W P - - - - - - 
+- F - - P - P P 
+P - - - K - - - 
+- - p - - - P - 
+WHITE's move
+
+Time used in makeMove: 0.9156 seconds out of  1
+WHITE's move: the C at (3, 1) to (3, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 63: Move is by WHITE
+Thanos says: No one can match me in the universe.
+c l i w k i L - 
+- - - - p p - L 
+I - P p - - - - 
+C - I P - - - - 
+W P - - - - - - 
+- F - - P - P P 
+P - - - K - - - 
+- - p - - - P - 
+BLACK's move
+
+Time used in makeMove: 1.0042 seconds out of  1
+BLACK's move: the k at (0, 4) to (1, 3).
+Calling the move validation service.
+valid move
+valid move
+Turn 64: Move is by BLACK
+Eric says: Hi Thanos, I think we will have a great game
+c l i w - i L - 
+- - - k p p - L 
+I - P p - - - - 
+C - I P - - - - 
+W P - - - - - - 
+- F - - P - P P 
+P - - - K - - - 
+- - p - - - P - 
+WHITE's move
+
+Time used in makeMove: 0.9211 seconds out of  1
+WHITE's move: the L at (0, 6) to (0, 4).
+Calling the move validation service.
+valid move
+valid move
+Turn 65: Move is by WHITE
+Thanos says: You have my respect.
+c l i w L - - - 
+- - - k p p - L 
+I - P p - - - - 
+C - I P - - - - 
+W P - - - - - - 
+- F - - P - P P 
+P - - - K - - - 
+- - p - - - P - 
+BLACK's move
+
+Time used in makeMove: 0.9953 seconds out of  1
+BLACK's move: the p at (2, 3) to (2, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 66: Move is by BLACK
+Eric says: My turn, I choose my move here
+c l i w L - - - 
+- - - k p p - L 
+I - P - - - p - 
+C - I P - - - - 
+W P - - - - - - 
+- F - - P - P P 
+P - - - K - - - 
+- - p - - - P - 
+WHITE's move
+
+Time used in makeMove: 0.9236 seconds out of  1
+WHITE's move: the P at (7, 6) to (7, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 67: Move is by WHITE
+Thanos says: No matter what you try, there will only one result.
+c l i w L - - - 
+- - - k p p - L 
+I - P - - - p - 
+C - I P - - - - 
+W P - - - - - - 
+- F - - P - P P 
+P - - - K - - - 
+- - p - - P - - 
+BLACK's move
+
+Time used in makeMove: 0.9954 seconds out of  1
+BLACK's move: the p at (7, 2) to (7, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 68: Move is by BLACK
+Eric says: I think I'm getting closer to win
+c l i w L - - - 
+- - - k p p - L 
+I - P - - - p - 
+C - I P - - - - 
+W P - - - - - - 
+- F - - P - P P 
+P - - - K - - - 
+p - - - - P - - 
+WHITE's move
+
+Time used in makeMove: 0.9202 seconds out of  1
+WHITE's move: the P at (7, 5) to (3, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 69: Move is by WHITE
+Thanos says: No one can match me in the universe.
+c l i w L - - - 
+- - - k p p - L 
+I - P - - - p - 
+C - I P - P - - 
+W P - - - - - - 
+- F - - P - P P 
+P - - - K - - - 
+p - - - - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9953 seconds out of  1
+BLACK's move: the p at (1, 5) to (0, 5).
+Calling the move validation service.
+Illegal move by BLACK
+Given end state does not correspond to any of the 3 valid moves for piece p at f7.
+BLACK's proposed, new state is: 
+c l i w L p - - 
+- - - k p - - L 
+I - P - - - p - 
+C - I P - P - - 
+W P - - - - - - 
+- F - - P - P P 
+P - - - K - - - 
+p - - - - - - - 
+WHITE's move
+
+Game over.
+Congratulations to the winner: WHITE

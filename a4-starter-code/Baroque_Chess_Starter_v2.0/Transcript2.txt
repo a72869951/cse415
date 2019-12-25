@@ -1,0 +1,1627 @@
+our team is BLACK
+
+
+
+
+**** Baroque Chess Gamemaster v1.0-BETA *****
+The Gamemaster says, "Players, introduce yourselves."
+ (Playing WHITE:) I'm PrinceStephen, a newbie Baroque Chess agent. I am created by Ye Jin and Ziyuan Wang. UW NETID yjin2 and wangzi. I am a character to play Baroque Chess.
+ (Playing BLACK:) My name is Thanos, my designer is Jingqiang Wang and Junhao Zeng 
+
+The Gamemaster says, "Let's Play!"
+
+The initial state is...
+c l i w k i l f 
+p p p p p p p p 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+- - - - - - - - 
+P P P P P P P P 
+F L I W K I L C 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -990
+N_STATES_EXPANDED = 977
+N_STATIC_EVALS = 977
+N_CUTOFFS = 0
+Time used in makeMove: 0.8471 seconds out of  1
+WHITE's move: the P at (6, 7) to (3, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 1: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w k i l f 
+p p p p p p p p 
+- - - - - - - - 
+- - - - - - - P 
+- - - - - - - - 
+- - - - - - - - 
+P P P P P P P - 
+F L I W K I L C 
+BLACK's move
+
+Time used in makeMove: 0.8984 seconds out of  1
+BLACK's move: the p at (1, 6) to (5, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 2: Move is by BLACK
+Thanos says: that's the best you can do?
+c l i w k i l f 
+p p p p p p - p 
+- - - - - - - - 
+- - - - - - - P 
+- - - - - - - - 
+- - - - - - p - 
+P P P P P P P - 
+F L I W K I L C 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -990
+N_STATES_EXPANDED = 1920
+N_STATIC_EVALS = 1920
+N_CUTOFFS = 0
+Time used in makeMove: 0.8449 seconds out of  1
+WHITE's move: the C at (7, 7) to (4, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 3: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w k i l f 
+p p p p p p - p 
+- - - - - - - - 
+- - - - - - - P 
+- - - - - - - C 
+- - - - - - p - 
+P P P P P P P - 
+F L I W K I L - 
+BLACK's move
+
+Time used in makeMove: 0.8970 seconds out of  1
+BLACK's move: the p at (5, 6) to (2, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 4: Move is by BLACK
+Thanos says: that's the best you can do?
+c l i w k i l f 
+p p p p p p - p 
+- - - - - - p - 
+- - - - - - - P 
+- - - - - - - C 
+- - - - - - - - 
+P P P P P P P - 
+F L I W K I L - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -990
+N_STATES_EXPANDED = 2252
+N_STATIC_EVALS = 2252
+N_CUTOFFS = 0
+Time used in makeMove: 0.8473 seconds out of  1
+WHITE's move: the P at (6, 6) to (5, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 5: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w k i l f 
+p p p p p p - p 
+- - - - - - p - 
+- - - - - - - P 
+- - - - - - - C 
+- - - - - - P - 
+P P P P P P - - 
+F L I W K I L - 
+BLACK's move
+
+Time used in makeMove: 0.8986 seconds out of  1
+BLACK's move: the p at (2, 6) to (3, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 6: Move is by BLACK
+Thanos says: You have my respect.
+c l i w k i l f 
+p p p p p p - p 
+- - - - - - - - 
+- - - - - - p P 
+- - - - - - - C 
+- - - - - - P - 
+P P P P P P - - 
+F L I W K I L - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -990
+N_STATES_EXPANDED = 2253
+N_STATIC_EVALS = 2253
+N_CUTOFFS = 0
+Time used in makeMove: 0.8479 seconds out of  1
+WHITE's move: the L at (7, 6) to (6, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 7: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w k i l f 
+p p p p p p - p 
+- - - - - - - - 
+- - - - - - p P 
+- - - - - - - C 
+- - - - - - P - 
+P P P P P P - L 
+F L I W K I - - 
+BLACK's move
+
+Time used in makeMove: 0.8980 seconds out of  1
+BLACK's move: the p at (3, 6) to (2, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 8: Move is by BLACK
+Thanos says: No one can match me in the universe.
+c l i w k i l f 
+p p p p p p - p 
+- - - - - - p - 
+- - - - - - - P 
+- - - - - - - C 
+- - - - - - P - 
+P P P P P P - L 
+F L I W K I - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -990
+N_STATES_EXPANDED = 2731
+N_STATIC_EVALS = 2731
+N_CUTOFFS = 0
+Time used in makeMove: 0.8475 seconds out of  1
+WHITE's move: the I at (7, 5) to (7, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 9: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w k i l f 
+p p p p p p - p 
+- - - - - - p - 
+- - - - - - - P 
+- - - - - - - C 
+- - - - - - P - 
+P P P P P P - L 
+F L I W K - I - 
+BLACK's move
+
+Time used in makeMove: 0.8972 seconds out of  1
+BLACK's move: the p at (2, 6) to (2, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 10: Move is by BLACK
+Thanos says: Smash!
+c l i w k i l f 
+p p p p p p - p 
+- p - - - - - - 
+- - - - - - - P 
+- - - - - - - C 
+- - - - - - P - 
+P P P P P P - L 
+F L I W K - I - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -990
+N_STATES_EXPANDED = 2702
+N_STATIC_EVALS = 2702
+N_CUTOFFS = 0
+Time used in makeMove: 0.8470 seconds out of  1
+WHITE's move: the P at (5, 6) to (5, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 11: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w k i l f 
+p p p p p p - p 
+- p - - - - - - 
+- - - - - - - P 
+- - - - - - - C 
+- - - - - - - P 
+P P P P P P - L 
+F L I W K - I - 
+BLACK's move
+
+Time used in makeMove: 0.8973 seconds out of  1
+BLACK's move: the p at (2, 1) to (3, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 12: Move is by BLACK
+Thanos says: that's the best you can do?
+c l i w k i l f 
+p p p p p p - p 
+- - - - - - - - 
+- p - - - - - P 
+- - - - - - - C 
+- - - - - - - P 
+P P P P P P - L 
+F L I W K - I - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -990
+N_STATES_EXPANDED = 2735
+N_STATIC_EVALS = 2735
+N_CUTOFFS = 0
+Time used in makeMove: 0.8474 seconds out of  1
+WHITE's move: the I at (7, 6) to (7, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 13: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w k i l f 
+p p p p p p - p 
+- - - - - - - - 
+- p - - - - - P 
+- - - - - - - C 
+- - - - - - - P 
+P P P P P P - L 
+F L I W K - - I 
+BLACK's move
+
+Time used in makeMove: 0.8974 seconds out of  1
+BLACK's move: the p at (3, 1) to (2, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 14: Move is by BLACK
+Thanos says: You have my respect.
+c l i w k i l f 
+p p p p p p - p 
+- p - - - - - - 
+- - - - - - - P 
+- - - - - - - C 
+- - - - - - - P 
+P P P P P P - L 
+F L I W K - - I 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -990
+N_STATES_EXPANDED = 2890
+N_STATIC_EVALS = 2890
+N_CUTOFFS = 0
+Time used in makeMove: 0.8466 seconds out of  1
+WHITE's move: the I at (7, 7) to (3, 3).
+Calling the move validation service.
+valid move
+valid move
+Turn 15: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w k i l f 
+p p p p p p - p 
+- p - - - - - - 
+- - - I - - - P 
+- - - - - - - C 
+- - - - - - - P 
+P P P P P P - L 
+F L I W K - - - 
+BLACK's move
+
+Time used in makeMove: 0.8985 seconds out of  1
+BLACK's move: the p at (2, 1) to (5, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 16: Move is by BLACK
+Thanos says: You are not the only one cursed with knowledge,PrinceStephen.
+c l i w k i l f 
+p p p p p p - p 
+- - - - - - - - 
+- - - I - - - P 
+- - - - - - - C 
+- p - - - - - P 
+P P P P P P - L 
+F L I W K - - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -990
+N_STATES_EXPANDED = 2816
+N_STATIC_EVALS = 2816
+N_CUTOFFS = 0
+Time used in makeMove: 0.8472 seconds out of  1
+WHITE's move: the L at (6, 7) to (2, 3).
+Calling the move validation service.
+valid move
+valid move
+Turn 17: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w k i l f 
+p p p p p p - p 
+- - - L - - - - 
+- - - I - - - P 
+- - - - - - - C 
+- p - - - - - P 
+P P P P P P - - 
+F L I W K - - - 
+BLACK's move
+
+Time used in makeMove: 0.8998 seconds out of  1
+BLACK's move: the p at (5, 1) to (4, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 18: Move is by BLACK
+Thanos says: No one can match me in the universe.
+c l i w k i l f 
+p p p p p p - p 
+- - - L - - - - 
+- - - I - - - P 
+- p - - - - - C 
+- - - - - - - P 
+P P P P P P - - 
+F L I W K - - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -989
+N_STATES_EXPANDED = 3077
+N_STATIC_EVALS = 3077
+N_CUTOFFS = 0
+Time used in makeMove: 0.8485 seconds out of  1
+WHITE's move: the L at (2, 3) to (5, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 19: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w k i l f 
+p p p p p p - p 
+- - - - - - - - 
+- - - I - - - P 
+- - - - - - - C 
+L - - - - - - P 
+P P P P P P - - 
+F L I W K - - - 
+BLACK's move
+
+Time used in makeMove: 0.8983 seconds out of  1
+BLACK's move: the p at (1, 5) to (4, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 20: Move is by BLACK
+Thanos says: No matter what you try, there will only one result.
+c l i w k i l f 
+p p p p p - - p 
+- - - - - - - - 
+- - - I - - - P 
+- - - - - p - C 
+L - - - - - - P 
+P P P P P P - - 
+F L I W K - - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -989
+N_STATES_EXPANDED = 3368
+N_STATIC_EVALS = 3368
+N_CUTOFFS = 0
+Time used in makeMove: 0.8483 seconds out of  1
+WHITE's move: the P at (6, 4) to (2, 4).
+Calling the move validation service.
+valid move
+valid move
+Turn 21: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w k i l f 
+p p p p p - - p 
+- - - - P - - - 
+- - - I - - - P 
+- - - - - p - C 
+L - - - - - - P 
+P P P P - P - - 
+F L I W K - - - 
+BLACK's move
+
+Time used in makeMove: 0.9036 seconds out of  1
+BLACK's move: the p at (4, 5) to (1, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 22: Move is by BLACK
+Thanos says: that's the best you can do?
+c l i w k i l f 
+p p p p p p - p 
+- - - - P - - - 
+- - - I - - - P 
+- - - - - - - C 
+L - - - - - - P 
+P P P P - P - - 
+F L I W K - - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -989
+N_STATES_EXPANDED = 2837
+N_STATIC_EVALS = 2837
+N_CUTOFFS = 0
+Time used in makeMove: 0.8476 seconds out of  1
+WHITE's move: the P at (6, 5) to (6, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 23: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w k i l f 
+p p p p p p - p 
+- - - - P - - - 
+- - - I - - - P 
+- - - - - - - C 
+L - - - - - - P 
+P P P P - - - P 
+F L I W K - - - 
+BLACK's move
+
+Time used in makeMove: 0.8962 seconds out of  1
+BLACK's move: the p at (1, 5) to (7, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 24: Move is by BLACK
+Thanos says: I am inevitable.
+c l i w k i l f 
+p p p p p - - p 
+- - - - P - - - 
+- - - I - - - P 
+- - - - - - - C 
+L - - - - - - P 
+P P P P - - - P 
+F L I W K p - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -988
+N_STATES_EXPANDED = 3892
+N_STATIC_EVALS = 3892
+N_CUTOFFS = 0
+Time used in makeMove: 0.8511 seconds out of  1
+WHITE's move: the C at (4, 7) to (2, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 25: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w k i l f 
+p p p p p - - p 
+- - - - P C - - 
+- - - I - - - P 
+- - - - - - - - 
+L - - - - - - P 
+P P P P - - - P 
+F L I W K - - - 
+BLACK's move
+
+Time used in makeMove: 0.8994 seconds out of  1
+BLACK's move: the p at (1, 2) to (4, 2).
+Calling the move validation service.
+valid move
+valid move
+Turn 26: Move is by BLACK
+Thanos says: I am inevitable.
+c l i w k i l f 
+p p - p p - - p 
+- - - - P C - - 
+- - - I - - - P 
+- - p - - - - - 
+L - - - - - - P 
+P P P P - - - P 
+F L I W K - - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -988
+N_STATES_EXPANDED = 4153
+N_STATIC_EVALS = 4153
+N_CUTOFFS = 0
+Time used in makeMove: 0.8487 seconds out of  1
+WHITE's move: the K at (7, 4) to (6, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 27: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w k i l f 
+p p - p p - - p 
+- - - - P C - - 
+- - - I - - - P 
+- - p - - - - - 
+L - - - - - - P 
+P P P P - K - P 
+F L I W - - - - 
+BLACK's move
+
+Time used in makeMove: 0.8960 seconds out of  1
+BLACK's move: the p at (4, 2) to (1, 2).
+Calling the move validation service.
+valid move
+valid move
+Turn 28: Move is by BLACK
+Thanos says: You are not the only one cursed with knowledge,PrinceStephen.
+c l i w k i l f 
+p p p p p - - p 
+- - - - P C - - 
+- - - I - - - P 
+- - - - - - - - 
+L - - - - - - P 
+P P P P - K - P 
+F L I W - - - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -988
+N_STATES_EXPANDED = 2850
+N_STATIC_EVALS = 2850
+N_CUTOFFS = 0
+Time used in makeMove: 0.8492 seconds out of  1
+WHITE's move: the W at (7, 3) to (7, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 29: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w k i l f 
+p p p p p - - p 
+- - - - P C - - 
+- - - I - - - P 
+- - - - - - - - 
+L - - - - - - P 
+P P P P - K - P 
+F L I - - W - - 
+BLACK's move
+
+Time used in makeMove: 0.8989 seconds out of  1
+BLACK's move: the p at (1, 7) to (1, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 30: Move is by BLACK
+Thanos says: No one can match me in the universe.
+c l i w k i l f 
+p p p p p p - - 
+- - - - P C - - 
+- - - I - - - P 
+- - - - - - - - 
+L - - - - - - P 
+P P P P - K - P 
+F L I - - W - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -988
+N_STATES_EXPANDED = 2685
+N_STATIC_EVALS = 2685
+N_CUTOFFS = 0
+Time used in makeMove: 0.8499 seconds out of  1
+WHITE's move: the W at (7, 5) to (2, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 31: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w k i l f 
+p p p p p p - - 
+W - - - P C - - 
+- - - I - - - P 
+- - - - - - - - 
+L - - - - - - P 
+P P P P - K - P 
+F L I - - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9002 seconds out of  1
+BLACK's move: the p at (1, 5) to (1, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 32: Move is by BLACK
+Thanos says: I am inevitable.
+c l i w k i l f 
+p p p p p - - p 
+W - - - P C - - 
+- - - I - - - P 
+- - - - - - - - 
+L - - - - - - P 
+P P P P - K - P 
+F L I - - - - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -988
+N_STATES_EXPANDED = 2795
+N_STATIC_EVALS = 2795
+N_CUTOFFS = 0
+Time used in makeMove: 0.8487 seconds out of  1
+WHITE's move: the I at (7, 2) to (7, 3).
+Calling the move validation service.
+valid move
+valid move
+Turn 33: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w k i l f 
+p p p p p - - p 
+W - - - P C - - 
+- - - I - - - P 
+- - - - - - - - 
+L - - - - - - P 
+P P P P - K - P 
+F L - I - - - - 
+BLACK's move
+
+Time used in makeMove: 0.8983 seconds out of  1
+BLACK's move: the l at (0, 6) to (3, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 34: Move is by BLACK
+Thanos says: No one can match me in the universe.
+c l i w k i - f 
+p p p p p - - p 
+W - - - P C - - 
+- - - I - - l P 
+- - - - - - - - 
+L - - - - - - P 
+P P P P - K - P 
+F L - I - - - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -989
+N_STATES_EXPANDED = 3569
+N_STATIC_EVALS = 3569
+N_CUTOFFS = 0
+Time used in makeMove: 0.8477 seconds out of  1
+WHITE's move: the P at (6, 2) to (3, 2).
+Calling the move validation service.
+valid move
+valid move
+Turn 35: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w k i - f 
+p p p p p - - p 
+W - - - P C - - 
+- - P I - - l P 
+- - - - - - - - 
+L - - - - - - P 
+P P - P - K - P 
+F L - I - - - - 
+BLACK's move
+
+Time used in makeMove: 0.8999 seconds out of  1
+BLACK's move: the l at (3, 6) to (2, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 36: Move is by BLACK
+Thanos says: You are weak.
+c l i w k i - f 
+p p p p p - - p 
+W - - - P C - l 
+- - P I - - - P 
+- - - - - - - - 
+L - - - - - - P 
+P P - P - K - P 
+F L - I - - - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -988
+N_STATES_EXPANDED = 2672
+N_STATIC_EVALS = 2672
+N_CUTOFFS = 0
+Time used in makeMove: 0.8483 seconds out of  1
+WHITE's move: the W at (2, 0) to (4, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 37: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w k i - f 
+- p p p p - - p 
+- - - - P C - l 
+- - P I - - - P 
+W - - - - - - - 
+L - - - - - - P 
+P P - P - K - P 
+F L - I - - - - 
+BLACK's move
+
+Time used in makeMove: 0.8975 seconds out of  1
+BLACK's move: the p at (1, 7) to (1, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 38: Move is by BLACK
+Thanos says: I am inevitable.
+c l i w k i - f 
+- p p p p p - - 
+- - - - P C - l 
+- - P I - - - P 
+W - - - - - - - 
+L - - - - - - P 
+P P - P - K - P 
+F L - I - - - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -987
+N_STATES_EXPANDED = 3013
+N_STATIC_EVALS = 3013
+N_CUTOFFS = 0
+Time used in makeMove: 0.8488 seconds out of  1
+WHITE's move: the C at (2, 5) to (1, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 39: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w k i - f 
+- p p p p - C - 
+- - - - P - - l 
+- - P I - - - P 
+W - - - - - - - 
+L - - - - - - P 
+P P - P - K - P 
+F L - I - - - - 
+BLACK's move
+
+Time used in makeMove: 0.8973 seconds out of  1
+BLACK's move: the l at (2, 7) to (2, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 40: Move is by BLACK
+Thanos says: You have my respect.
+c l i w k i - f 
+- p p p p - C - 
+- - - - P - l - 
+- - P I - - - P 
+W - - - - - - - 
+L - - - - - - P 
+P P - P - K - P 
+F L - I - - - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -984
+N_STATES_EXPANDED = 3778
+N_STATIC_EVALS = 3778
+N_CUTOFFS = 0
+Time used in makeMove: 0.8488 seconds out of  1
+WHITE's move: the L at (7, 1) to (1, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 41: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w k i - f 
+- p p p p - C L 
+- - - - P - - - 
+- - P I - - - P 
+W - - - - - - - 
+L - - - - - - P 
+P P - P - K - P 
+F - - I - - - - 
+BLACK's move
+
+Time used in makeMove: 0.8979 seconds out of  1
+BLACK's move: the k at (0, 4) to (1, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 42: Move is by BLACK
+Thanos says: You are weak.
+c l i w - i - f 
+- p p p p k C L 
+- - - - P - - - 
+- - P I - - - P 
+W - - - - - - - 
+L - - - - - - P 
+P P - P - K - P 
+F - - I - - - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -985
+N_STATES_EXPANDED = 2333
+N_STATIC_EVALS = 2333
+N_CUTOFFS = 0
+Time used in makeMove: 0.8491 seconds out of  1
+WHITE's move: the I at (7, 3) to (5, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 43: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w - i - f 
+- p p p p k C L 
+- - - - P - - - 
+- - P I - - - P 
+W - - - - - - - 
+L I - - - - - P 
+P P - P - K - P 
+F - - - - - - - 
+BLACK's move
+
+Time used in makeMove: 0.8968 seconds out of  1
+BLACK's move: the k at (1, 5) to (1, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 44: Move is by BLACK
+Thanos says: I am inevitable.
+c l i w - i - f 
+- p p p p - k L 
+- - - - P - - - 
+- - P I - - - P 
+W - - - - - - - 
+L I - - - - - P 
+P P - P - K - P 
+F - - - - - - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -988
+N_STATES_EXPANDED = 2610
+N_STATIC_EVALS = 2610
+N_CUTOFFS = 0
+Time used in makeMove: 0.8503 seconds out of  1
+WHITE's move: the F at (7, 0) to (7, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 45: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w - i - f 
+- p p p p - k L 
+- - - - P - - - 
+- - P I - - - P 
+W - - - - - - - 
+L I - - - - - P 
+P P - P - K - P 
+- - - - - - - F 
+BLACK's move
+
+Time used in makeMove: 0.9005 seconds out of  1
+BLACK's move: the p at (1, 4) to (0, 4).
+Calling the move validation service.
+valid move
+valid move
+Turn 46: Move is by BLACK
+Thanos says: I am the best.
+c l i w p i - f 
+- p p p - - k L 
+- - - - P - - - 
+- - P I - - - P 
+W - - - - - - - 
+L I - - - - - P 
+P P - P - K - P 
+- - - - - - - F 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -988
+N_STATES_EXPANDED = 3148
+N_STATIC_EVALS = 3148
+N_CUTOFFS = 0
+Time used in makeMove: 0.8487 seconds out of  1
+WHITE's move: the F at (7, 7) to (4, 4).
+Calling the move validation service.
+valid move
+valid move
+Turn 47: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w p i - f 
+- p p p - - k L 
+- - - - P - - - 
+- - P I - - - P 
+W - - - F - - - 
+L I - - - - - P 
+P P - P - K - P 
+- - - - - - - - 
+BLACK's move
+
+Time used in makeMove: 0.8982 seconds out of  1
+BLACK's move: the k at (1, 6) to (2, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 48: Move is by BLACK
+Thanos says: I am the best.
+c l i w p i - f 
+- p p p - - - L 
+- - - - P - - k 
+- - P I - - - P 
+W - - - F - - - 
+L I - - - - - P 
+P P - P - K - P 
+- - - - - - - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -988
+N_STATES_EXPANDED = 3461
+N_STATIC_EVALS = 3461
+N_CUTOFFS = 0
+Time used in makeMove: 0.8489 seconds out of  1
+WHITE's move: the P at (6, 7) to (7, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 49: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w p i - f 
+- p p p - - - L 
+- - - - P - - k 
+- - P I - - - P 
+W - - - F - - - 
+L I - - - - - P 
+P P - P - K - - 
+- - - - - - - P 
+BLACK's move
+
+Time used in makeMove: 0.9014 seconds out of  1
+BLACK's move: the k at (2, 7) to (2, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 50: Move is by BLACK
+Thanos says: I am inevitable.
+c l i w p i - f 
+- p p p - - - L 
+- - - - P - k - 
+- - P I - - - P 
+W - - - F - - - 
+L I - - - - - P 
+P P - P - K - - 
+- - - - - - - P 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -985
+N_STATES_EXPANDED = 4026
+N_STATIC_EVALS = 4026
+N_CUTOFFS = 0
+Time used in makeMove: 0.8489 seconds out of  1
+WHITE's move: the F at (4, 4) to (3, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 51: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w p i - f 
+- p p p - - - L 
+- - - - P - k - 
+- - P I - F - P 
+W - - - - - - - 
+L I - - - - - P 
+P P - P - K - - 
+- - - - - - - P 
+BLACK's move
+
+Time used in makeMove: 0.8968 seconds out of  1
+BLACK's move: the p at (1, 3) to (1, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 52: Move is by BLACK
+Thanos says: that's the best you can do?
+c l i w p i - f 
+- p p - - - p L 
+- - - - P - k - 
+- - P I - F - P 
+W - - - - - - - 
+L I - - - - - P 
+P P - P - K - - 
+- - - - - - - P 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -985
+N_STATES_EXPANDED = 3159
+N_STATIC_EVALS = 3159
+N_CUTOFFS = 0
+Time used in makeMove: 0.8491 seconds out of  1
+WHITE's move: the P at (7, 7) to (7, 2).
+Calling the move validation service.
+valid move
+valid move
+Turn 53: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w p i - f 
+- p p - - - p L 
+- - - - P - k - 
+- - P I - F - P 
+W - - - - - - - 
+L I - - - - - P 
+P P - P - K - - 
+- - P - - - - - 
+BLACK's move
+
+Time used in makeMove: 0.8967 seconds out of  1
+BLACK's move: the p at (1, 6) to (0, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 54: Move is by BLACK
+Thanos says: All that much time for this move?let it be fear
+c l i w p i p f 
+- p p - - - - L 
+- - - - P - k - 
+- - P I - F - P 
+W - - - - - - - 
+L I - - - - - P 
+P P - P - K - - 
+- - P - - - - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -985
+N_STATES_EXPANDED = 3540
+N_STATIC_EVALS = 3540
+N_CUTOFFS = 0
+Time used in makeMove: 0.8486 seconds out of  1
+WHITE's move: the P at (7, 2) to (7, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 55: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w p i p f 
+- p p - - - - L 
+- - - - P - k - 
+- - P I - F - P 
+W - - - - - - - 
+L I - - - - - P 
+P P - P - K - - 
+- - - - - - P - 
+BLACK's move
+
+Time used in makeMove: 0.8983 seconds out of  1
+BLACK's move: the p at (1, 2) to (1, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 56: Move is by BLACK
+Thanos says: I am the best.
+c l i w p i p f 
+- p - - - - p L 
+- - - - P - k - 
+- - P I - F - P 
+W - - - - - - - 
+L I - - - - - P 
+P P - P - K - - 
+- - - - - - P - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -985
+N_STATES_EXPANDED = 4195
+N_STATIC_EVALS = 4195
+N_CUTOFFS = 0
+Time used in makeMove: 0.8499 seconds out of  1
+WHITE's move: the P at (7, 6) to (7, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 57: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w p i p f 
+- p - - - - p L 
+- - - - P - k - 
+- - P I - F - P 
+W - - - - - - - 
+L I - - - - - P 
+P P - P - K - - 
+- - - - - - - P 
+BLACK's move
+
+Time used in makeMove: 0.9003 seconds out of  1
+BLACK's move: the p at (1, 6) to (1, 2).
+Calling the move validation service.
+valid move
+valid move
+Turn 58: Move is by BLACK
+Thanos says: I am inevitable.
+c l i w p i p f 
+- p p - - - - L 
+- - - - P - k - 
+- - P I - F - P 
+W - - - - - - - 
+L I - - - - - P 
+P P - P - K - - 
+- - - - - - - P 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -985
+N_STATES_EXPANDED = 3444
+N_STATIC_EVALS = 3444
+N_CUTOFFS = 0
+Time used in makeMove: 0.8495 seconds out of  1
+WHITE's move: the P at (7, 7) to (7, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 59: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w p i p f 
+- p p - - - - L 
+- - - - P - k - 
+- - P I - F - P 
+W - - - - - - - 
+L I - - - - - P 
+P P - P - K - - 
+P - - - - - - - 
+BLACK's move
+
+Time used in makeMove: 0.8975 seconds out of  1
+BLACK's move: the p at (1, 1) to (4, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 60: Move is by BLACK
+Thanos says: All that much time for this move?let it be fear
+c l i w p i p f 
+- - p - - - - L 
+- - - - P - k - 
+- - P I - F - P 
+W p - - - - - - 
+L I - - - - - P 
+P P - P - K - - 
+P - - - - - - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -984
+N_STATES_EXPANDED = 4312
+N_STATIC_EVALS = 4312
+N_CUTOFFS = 0
+Time used in makeMove: 0.8502 seconds out of  1
+WHITE's move: the P at (3, 2) to (4, 2).
+Calling the move validation service.
+valid move
+valid move
+Turn 61: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w p i p f 
+- - p - - - - L 
+- - - - P - k - 
+- - - I - F - P 
+W - P - - - - - 
+L I - - - - - P 
+P P - P - K - - 
+P - - - - - - - 
+BLACK's move
+
+Time used in makeMove: 0.8979 seconds out of  1
+BLACK's move: the p at (1, 2) to (2, 2).
+Calling the move validation service.
+valid move
+valid move
+Turn 62: Move is by BLACK
+Thanos says: You will lose
+c l i w p i p f 
+- - - - - - - L 
+- - p - P - k - 
+- - - I - F - P 
+W - P - - - - - 
+L I - - - - - P 
+P P - P - K - - 
+P - - - - - - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -984
+N_STATES_EXPANDED = 4674
+N_STATIC_EVALS = 4674
+N_CUTOFFS = 0
+Time used in makeMove: 0.8474 seconds out of  1
+WHITE's move: the P at (7, 0) to (7, 3).
+Calling the move validation service.
+valid move
+valid move
+Turn 63: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w p i p f 
+- - - - - - - L 
+- - p - P - k - 
+- - - I - F - P 
+W - P - - - - - 
+L I - - - - - P 
+P P - P - K - - 
+- - - P - - - - 
+BLACK's move
+
+Time used in makeMove: 0.8969 seconds out of  1
+BLACK's move: the p at (2, 2) to (2, 3).
+Calling the move validation service.
+valid move
+valid move
+Turn 64: Move is by BLACK
+Thanos says: No one can match me in the universe.
+c l i w p i p f 
+- - - - - - - L 
+- - - p P - k - 
+- - - I - F - P 
+W - P - - - - - 
+L I - - - - - P 
+P P - P - K - - 
+- - - P - - - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -983
+N_STATES_EXPANDED = 4126
+N_STATIC_EVALS = 4126
+N_CUTOFFS = 0
+Time used in makeMove: 0.8503 seconds out of  1
+WHITE's move: the P at (4, 2) to (2, 2).
+Calling the move validation service.
+valid move
+valid move
+Turn 65: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w p i p f 
+- - - - - - - L 
+- - P - P - k - 
+- - - I - F - P 
+W - - - - - - - 
+L I - - - - - P 
+P P - P - K - - 
+- - - P - - - - 
+BLACK's move
+
+Time used in makeMove: 0.8961 seconds out of  1
+BLACK's move: the f at (0, 7) to (3, 4).
+Calling the move validation service.
+valid move
+valid move
+Turn 66: Move is by BLACK
+Thanos says: You are weak.
+c l i w p i p - 
+- - - - - - - L 
+- - P - P - k - 
+- - - I f F - P 
+W - - - - - - - 
+L I - - - - - P 
+P P - P - K - - 
+- - - P - - - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -984
+N_STATES_EXPANDED = 2762
+N_STATIC_EVALS = 2762
+N_CUTOFFS = 0
+Time used in makeMove: 0.8547 seconds out of  1
+WHITE's move: the P at (7, 3) to (7, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 67: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w p i p - 
+- - - - - - - L 
+- - P - P - k - 
+- - - I f F - P 
+W - - - - - - - 
+L I - - - - - P 
+P P - P - K - - 
+- - - - - - P - 
+BLACK's move
+
+Time used in makeMove: 0.9010 seconds out of  1
+BLACK's move: the p at (0, 6) to (0, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 68: Move is by BLACK
+Thanos says: No matter what you try, there will only one result.
+c l i w p i - p 
+- - - - - - - L 
+- - P - P - k - 
+- - - I f F - P 
+W - - - - - - - 
+L I - - - - - P 
+P P - P - K - - 
+- - - - - - P - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -984
+N_STATES_EXPANDED = 2959
+N_STATIC_EVALS = 2959
+N_CUTOFFS = 0
+Time used in makeMove: 0.8485 seconds out of  1
+WHITE's move: the P at (7, 6) to (7, 7).
+Calling the move validation service.
+valid move
+valid move
+Turn 69: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w p i - p 
+- - - - - - - L 
+- - P - P - k - 
+- - - I f F - P 
+W - - - - - - - 
+L I - - - - - P 
+P P - P - K - - 
+- - - - - - - P 
+BLACK's move
+
+Time used in makeMove: 0.9000 seconds out of  1
+BLACK's move: the i at (0, 5) to (3, 2).
+Calling the move validation service.
+valid move
+valid move
+Turn 70: Move is by BLACK
+Thanos says: All that much time for this move?let it be fear
+c l i w p - - p 
+- - - - - - - L 
+- - P - P - k - 
+- - i I f F - P 
+W - - - - - - - 
+L I - - - - - P 
+P P - P - K - - 
+- - - - - - - P 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -979
+N_STATES_EXPANDED = 3114
+N_STATIC_EVALS = 3114
+N_CUTOFFS = 0
+Time used in makeMove: 0.8490 seconds out of  1
+WHITE's move: the L at (5, 0) to (2, 3).
+Calling the move validation service.
+valid move
+valid move
+Turn 71: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i w p - - p 
+- - - - - - - L 
+- - P L P - k - 
+- - - I f F - P 
+W - - - - - - - 
+- I - - - - - P 
+P P - P - K - - 
+- - - - - - - P 
+BLACK's move
+
+Time used in makeMove: 0.9005 seconds out of  1
+BLACK's move: the w at (0, 3) to (3, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 72: Move is by BLACK
+Thanos says: that's the best you can do?
+c l i - p - - p 
+- - - - - - - L 
+- - P L P - k - 
+w - - I f F - P 
+W - - - - - - - 
+- I - - - - - P 
+P P - P - K - - 
+- - - - - - - P 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -971
+N_STATES_EXPANDED = 2249
+N_STATIC_EVALS = 2249
+N_CUTOFFS = 0
+Time used in makeMove: 0.8479 seconds out of  1
+WHITE's move: the P at (2, 2) to (2, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 73: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i - p - - p 
+- - - - - - - L 
+P - - L P - k - 
+- - - I f F - P 
+W - - - - - - - 
+- I - - - - - P 
+P P - P - K - - 
+- - - - - - - P 
+BLACK's move
+
+Time used in makeMove: 0.8978 seconds out of  1
+BLACK's move: the p at (0, 7) to (0, 5).
+Calling the move validation service.
+valid move
+valid move
+Turn 74: Move is by BLACK
+Thanos says: No one can match me in the universe.
+c l i - p p - - 
+- - - - - - - L 
+P - - L P - k - 
+- - - I f F - P 
+W - - - - - - - 
+- I - - - - - P 
+P P - P - K - - 
+- - - - - - - P 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -970
+N_STATES_EXPANDED = 1887
+N_STATIC_EVALS = 1887
+N_CUTOFFS = 0
+Time used in makeMove: 0.8481 seconds out of  1
+WHITE's move: the L at (1, 7) to (1, 4).
+Calling the move validation service.
+valid move
+valid move
+Turn 75: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+c l i - p p - - 
+- - - - L - - - 
+P - - L P - k - 
+- - - I f F - P 
+W - - - - - - - 
+- I - - - - - P 
+P P - P - K - - 
+- - - - - - - P 
+BLACK's move
+
+Time used in makeMove: 0.9000 seconds out of  1
+BLACK's move: the c at (0, 0) to (1, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 76: Move is by BLACK
+Thanos says: I am inevitable.
+- l i - p p - - 
+c - - - L - - - 
+- - - L P - k - 
+- - - I f F - P 
+W - - - - - - - 
+- I - - - - - P 
+P P - P - K - - 
+- - - - - - - P 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -971
+N_STATES_EXPANDED = 2422
+N_STATIC_EVALS = 2422
+N_CUTOFFS = 0
+Time used in makeMove: 0.8468 seconds out of  1
+WHITE's move: the P at (7, 7) to (7, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 77: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+- l i - p p - - 
+c - - - L - - - 
+- - - L P - k - 
+- - - I f F - P 
+W - - - - - - - 
+- I - - - - - P 
+P P - P - K - - 
+P - - - - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9003 seconds out of  1
+BLACK's move: the c at (1, 0) to (1, 3).
+Calling the move validation service.
+valid move
+valid move
+Turn 78: Move is by BLACK
+Thanos says: All that much time for this move?let it be fear
+- l i - p p - - 
+- - - c L - - - 
+- - - - P - k - 
+- - - I f F - P 
+W - - - - - - - 
+- I - - - - - P 
+P P - P - K - - 
+P - - - - - - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -975
+N_STATES_EXPANDED = 2344
+N_STATIC_EVALS = 2344
+N_CUTOFFS = 0
+Time used in makeMove: 0.8474 seconds out of  1
+WHITE's move: the L at (1, 4) to (0, 3).
+Calling the move validation service.
+valid move
+valid move
+Turn 79: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+- l i L p p - - 
+- - - c - - - - 
+- - - - P - k - 
+- - - I f F - P 
+W - - - - - - - 
+- I - - - - - P 
+P P - P - K - - 
+P - - - - - - - 
+BLACK's move
+
+Time used in makeMove: 0.9010 seconds out of  1
+BLACK's move: the l at (0, 1) to (1, 0).
+Calling the move validation service.
+valid move
+valid move
+Turn 80: Move is by BLACK
+Thanos says: You will lose
+- - i L p p - - 
+l - - c - - - - 
+- - - - P - k - 
+- - - I f F - P 
+W - - - - - - - 
+- I - - - - - P 
+P P - P - K - - 
+P - - - - - - - 
+WHITE's move
+
+Depth = 4
+CURRENT_STATE_STATIC_VAL = -979
+N_STATES_EXPANDED = 2661
+N_STATIC_EVALS = 2661
+N_CUTOFFS = 0
+Time used in makeMove: 0.8482 seconds out of  1
+WHITE's move: the L at (0, 3) to (0, 1).
+Calling the move validation service.
+valid move
+valid move
+Turn 81: Move is by WHITE
+PrinceStephen says: I am ruthless and talk less,人狠话不多。
+- L - - p p - - 
+l - - c - - - - 
+- - - - P - k - 
+- - - I f F - P 
+W - - - - - - - 
+- I - - - - - P 
+P P - P - K - - 
+P - - - - - - - 
+BLACK's move
+
+Time used in makeMove: 0.8982 seconds out of  1
+BLACK's move: the l at (1, 0) to (7, 6).
+Calling the move validation service.
+valid move
+valid move
+Turn 82: Move is by BLACK
+Thanos says: No matter what you try, there will only one result.
+- L - - p p - - 
+- - - c - - - - 
+- - - - P - k - 
+- - - I f F - P 
+W - - - - - - - 
+- I - - - - - P 
+P P - P - - - - 
+P - - - - - l - 
+WHITE's move
+
+Win for BLACK
+Game over.
+Congratulations to the winner: BLACK
+
+Process finished with exit code 0
